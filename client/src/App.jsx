@@ -11,7 +11,7 @@ function NavBar() {
 
   return (
     <nav className="nav">
-      <Link to="/" className="brand">ReviewLens</Link>
+      <Link to="/" className="brand">AI Review Platform</Link>
       <div className="nav-right">
         {user ? (
           <>

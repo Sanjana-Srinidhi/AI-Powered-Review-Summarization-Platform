@@ -1,4 +1,4 @@
-# ReviewLens — AI-Powered Review Summarization Platform
+# AI-Powered Review Summarization Platform
 
 A full-stack MERN platform for reviewing movies, books, electronics and
 restaurants. It aggregates user reviews and uses the OpenAI API to generate
